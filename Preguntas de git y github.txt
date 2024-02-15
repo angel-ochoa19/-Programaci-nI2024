@@ -1,0 +1,27 @@
+Resumen:
+
+1. #Git:
+   Git es un sistema de control de versiones distribuido creado por Linus Torvalds. Su función principal es rastrear cambios en el código fuente durante el desarrollo de software, facilitando la colaboración y gestión de proyectos.
+
+2. #Comandos importantes y su uso:
+   - git init: Inicializa un nuevo repositorio Git.
+   - git add: Agrega cambios al área de preparación.
+   - git commit: Registra los cambios en el repositorio.
+   - git status: Muestra el estado actual del repositorio.
+   - git log: Muestra el historial de commits.
+   - git branch: Lista, crea o borra ramas.
+   - git checkout: Cambia entre ramas o versiones específicas.
+   - git pull: Obtiene cambios del repositorio remoto y los fusiona localmente.
+   - git push: Sube cambios locales al repositorio remoto.
+
+3. #Diferencia entre Git y Github:
+   Git es el sistema de control de versiones, mientras que GitHub es una plataforma de alojamiento de repositorios que utiliza Git. GitHub proporciona herramientas adicionales para la colaboración, como seguimiento de problemas y solicitudes de extracción.
+
+4. #Comandos para subir cambios:
+   - git add: Agrega todos los cambios al área de preparación.
+   - git commit -m Mensaje del commit: Registra los cambios con un mensaje descriptivo.
+   - git pull origin nombre_rama: Obtiene cambios del repositorio remoto a la rama local.
+   - git push origin nombre_rama: Sube los cambios locales a la rama remota.
+
+5. #Branch (Rama):
+   Una branch en Git es una línea de desarrollo independiente que permite trabajar en características o correcciones de errores sin afectar la rama principal. Facilita la gestión de versiones paralelas y el desarrollo simultáneo de diferentes características en un proyecto.
