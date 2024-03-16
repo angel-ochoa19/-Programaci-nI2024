@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+
+public class Box
+{
+    public double Length { get; set; }
+    public double Width { get; set; }
+    public double Height { get; set; }
+
+    public double CalculateVolume()
+    {
+        return Length * Width * Height;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        List<Box> boxes = new List<Box>();
+
+        Console.Write("Ingrese la cantidad de cajas: ");
+        int numBoxes = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 0; i < numBoxes; i++)
+        {
+            Console.WriteLine($"Ingrese las dimensiones de la caja {i + 1}:");
+            Console.Write("Largo: ");
+            double length = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Ancho: ");
+            double width = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Alto: ");
+            double height = Convert.ToDouble(Console.ReadLine());
+
+            Box box = new Box { Length = length, Width = width, Height = height };
+            boxes.Add(box);
+        }
+
+        // Calcular el total de volumen y el volumen promedio
+        double totalVolume = 0;
+        foreach (var box in boxes)
+        {
+            totalVolume += box.CalculateVolume();
+        }
+
+        double averageVolume = totalVolume / numBoxes;
+
+        Console.WriteLine($"Total de volumen de las cajas: {totalVolume}");
+        Console.WriteLine($"Volumen promedio de las cajas: {averageVolume}");
+    }
+}
