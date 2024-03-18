@@ -1,0 +1,14 @@
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\bin\Debug\net8.0\Menu.exe
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\bin\Debug\net8.0\Menu.deps.json
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\bin\Debug\net8.0\Menu.runtimeconfig.json
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\bin\Debug\net8.0\Menu.dll
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\bin\Debug\net8.0\Menu.pdb
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfoInputs.cache
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\Menu.AssemblyInfo.cs
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\Menu.csproj.CoreCompileInputs.cache
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\Menu.dll
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\refint\Menu.dll
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\Menu.pdb
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\Menu.genruntimeconfig.cache
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio semana 7\Menu\Menu\obj\Debug\net8.0\ref\Menu.dll
