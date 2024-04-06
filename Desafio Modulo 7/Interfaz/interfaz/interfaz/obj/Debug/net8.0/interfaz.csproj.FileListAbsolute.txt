@@ -1,0 +1,14 @@
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\bin\Debug\net8.0\interfaz.exe
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\bin\Debug\net8.0\interfaz.deps.json
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\bin\Debug\net8.0\interfaz.runtimeconfig.json
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\bin\Debug\net8.0\interfaz.dll
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\bin\Debug\net8.0\interfaz.pdb
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\interfaz.AssemblyInfoInputs.cache
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\interfaz.AssemblyInfo.cs
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\interfaz.csproj.CoreCompileInputs.cache
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\interfaz.dll
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\refint\interfaz.dll
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\interfaz.pdb
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\interfaz.genruntimeconfig.cache
+C:\Users\21\OneDrive\Documentos\Universidad\Semestre 3\Programacion 1\Desafio Modulo 7\Interfaz\interfaz\interfaz\obj\Debug\net8.0\ref\interfaz.dll
