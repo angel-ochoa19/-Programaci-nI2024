@@ -1,0 +1,7 @@
+CREATE DATABASE PracticaCRUD
+CREATE TABLE Persona (
+id int primary key identity(1,1),
+nombre varchar(50),
+edad int,
+numero varchar(10)
+)
